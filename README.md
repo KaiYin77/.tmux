@@ -1,6 +1,8 @@
 .tmux
 =====
 
+Original Author [gpakosz](https://github.com/gpakosz/.tmux)
+
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/553208/19740585/85596a5a-9bbf-11e6-8aa1-7c8d9829c008.gif)
@@ -367,4 +369,3 @@ font.
 ![regedit](https://cloud.githubusercontent.com/assets/553208/19741304/71a2f3ae-9bc0-11e6-96aa-4c09a812c313.png)
 
 [font linking]: https://msdn.microsoft.com/en-us/goglobal/bb688134.aspx
-# .tmux
